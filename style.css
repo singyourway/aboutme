@@ -6,3 +6,12 @@ img{
 h3 {
   display: inline;
 }
+h1{
+  background-color: burlywood;
+  border: 20px ridge rgb(227, 205, 161);
+  padding: 30px;
+  text-align: center;
+  font-family: cursive;
+  font-size: 90px;
+  color: rgb(58, 38, 16);
+}
