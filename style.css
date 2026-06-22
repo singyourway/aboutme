@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "rubik";
+  src: url(./RubikDirt-Regular.woff2), format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
 img{
   width: 150px;
   height: auto;
@@ -11,7 +18,7 @@ h1{
   border: 20px ridge rgb(227, 205, 161);
   padding: 30px;
   text-align: center;
-  font-family: cursive;
+  font-family: "rubik", sans-serif;
   font-size: 90px;
   color: rgb(58, 38, 16);
 }
@@ -24,4 +31,8 @@ h2{
   margin-top: 30px;
   border: 8px double rgb(73, 5, 5);
   padding: 30px;
+}
+
+h3{
+  font-family: monospace;
 }
