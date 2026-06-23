@@ -20,19 +20,43 @@ h1{
   text-align: center;
   font-family: "rubik", sans-serif;
   font-size: 90px;
-  color: rgb(58, 38, 16);
+  color: rgb(44, 28, 12);
+  margin-bottom: 20px;
 }
 
 h2{
-  font-family: cursive;
+  font-family: rubik;
   text-align: center;
-  font-size: 18px;
+  font-size: 25px;
   margin-bottom: 60px;
-  margin-top: 30px;
-  border: 8px double rgb(73, 5, 5);
-  padding: 30px;
+  margin-top: 20px;
+  padding: 20px;
 }
 
 h3{
   font-family: monospace;
+}
+
+#love{
+  color: crimson;
+}
+
+#pk{
+  color: cornflowerblue
+}
+
+#m{
+  color: rgb(100, 54, 5);
+}
+
+#art{
+  color: rgb(119, 49, 194);
+}
+
+#local{
+  color: rgb(39, 118, 39);
+}
+
+#travel{
+  color: rgb(51, 151, 171)
 }
